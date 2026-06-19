@@ -1,5 +1,9 @@
-## Hi there 👋
+### Hi, I'm Sahejreet 👋
 
+CS undergrad at IIIT Hyderabad. Always learning, always building.
+
+🌐 Website: [link](https://sahej-sethi.github.io/)
+💼 LinkedIn: [link](https://www.linkedin.com/in/sahejreet-singh-5a6821377?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 <!--
 **Sahej-sethi/Sahej-sethi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
